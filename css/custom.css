@@ -1,5 +1,5 @@
 @font-face{
-    font-family: 'Smartisan_Compact';
-    src: 
-        url('https://github.com/MC-DALIU/MC-DALIU.github.io/blob/main/fonts/Smartisan_Compact-Regular.otf') format("otf");   
-}
+    font-family:'Smartisan_Compact' ;  /* 字体名自定义即可 */
+    src:url('https://MC-DALIU.github.io/fonts/Smartisan_Compact.otf'); /* 字体文件路径 */
+    font-display : swap;
+  }
