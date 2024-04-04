@@ -1,4 +1,3 @@
-@font-face {
-  font-family: 'Smartisan_Compact';
-  src: url('/fonts/Smartisan_Compact-Regular.otf') format('opentype')
+html, body, .markdown-body, p { 
+	font-family: 'LXGW WenKai Screen'; 
 }
